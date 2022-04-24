@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: I once did Stand Up Comedy and won 3rd place during the Drama Festivals
 
-<h3 align="left">Talk with me, I am kinda awesome:</h3>
+<h3 align="left">Talk with me, I'm kinda awesome:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/caren-achieng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caren-achieng" height="30" width="40" /></a>
 </p>
