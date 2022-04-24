@@ -1,14 +1,14 @@
 <h1 align="center">Hello World, I'm Caren</h1>
 <h3 align="center">I'm a Student, Developer and Creator!! </h3>
 
-<ul>
-🔭 I’m currently working on my portfolio
-🌱 I’m currently learning React and C
-👯 I’m looking to collaborate on web dev projects
-💬 Ask me about ... anything
-😄 Pronouns: She/Her
-⚡ Fun fact: I once did Stand Up Comedy and won 3rd place during the Drama Festivals.
-</ul>
+
+-🔭 I’m currently working on my portfolio
+-🌱 I’m currently learning React and C
+-👯 I’m looking to collaborate on web dev projects
+-💬 Ask me about ... anything
+-😄 Pronouns: She/Her
+-⚡ Fun fact: I once did Stand Up Comedy and won 3rd place during the Drama Festivals.
+
 
 <h3 align="left">Talk with me, I am kinda awesome:</h3>
 <p align="left">
